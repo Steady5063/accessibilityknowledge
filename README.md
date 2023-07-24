@@ -1,5 +1,7 @@
-# accessibilityknowledge
+# Accessibility Knowledgebase Test Page
+<img src="https://cdn-icons-png.flaticon.com/512/7118/7118029.png" style="height:150px; width:150px;"/>
 Example HTML project for building accessible components
+
 
 ## Purpose
 
